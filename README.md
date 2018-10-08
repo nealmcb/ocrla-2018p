@@ -102,3 +102,11 @@ For now, use the `--help` option of each tool for help, and/or read the comments
     # on a paper worksheet so you have a permanent, auditable record of the audit evidence.
 
     # Go back up to "Start a round".
+
+# TODO:
+
+Currently the code assumes that all contests are California "top-two" primary contests, and the set of contests that are being audited is hard-coded in the call to parse_hart.py.
+Supporting a typical single-winner contest would take a bit of work in analyze_rounds.py.
+
+Some day, a more flexible
+way of identifying the set of voting method / tally rules for determining outcomes would be helpful.
