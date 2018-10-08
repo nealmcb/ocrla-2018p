@@ -1,5 +1,18 @@
-**rla_utils**: **parse_hart** and **analyze_rounds** allow the RLAtool used
-for ballot-comparison risk-limiting audits in Colorado in 2017 (ColoradoRLA),
+# Orange County Risk-Limiting Audit for 2018 Primary Election
+
+This repository contains the code, data and a reproducible analysis of the risk-limiting audit
+of the Orange County California 2018 primary election.
+
+These materials support the report detailing the risk-limiting audit and lessons learned, available at ...WIP - FIXME....
+
+The data analysis can be seen and reproduced via the [ocrla-2018p Jupyter notebook](data/ocrla-2018p.ipynb).
+
+The analysis can be run live and further explored by clicking on
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nealmcb/ocrla-2018p/master)
+
+# Methodology
+**parse_hart** and **analyze_rounds** allow the RLAtool used
+for ballot-comparison risk-limiting audits in Colorado in 2017 ([ColoradoRLA](https://github.com/FreeAndFair/ColoradoRLA/)),
 to be used in a ballot-polling risk-limiting audit.
 `parse_hart` is used to create a mock CVR from the `contest_table` CSV file
 produced by Hart's BallotNow system.
@@ -38,11 +51,10 @@ Only the rlacalc.py and hug_noop.py files are needed.
 Install the "orange" branch of ColoradoRLA from
 https://github.com/nealmcb/ColoradoRLA/tree/orange
 
-Install the python package `rla_export` found in
-ColoradoRLA/server/eclipse-project/script/rla_export
-(TODO: put install file up as a release under github?)
+Install the [Python package rla_export](https://github.com/FreeAndFair/ColoradoRLA/releases/tag/v1.1.0.3).
+It requires Python 2.7.
 
-Add the directory with all those python files to $PATH.
+Add the directories of all those Python files to $PATH.
 
 # Documentation
 For now, use the `--help` option of each tool for help, and/or read the comments.

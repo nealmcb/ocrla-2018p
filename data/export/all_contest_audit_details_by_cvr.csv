@@ -1,0 +1,801 @@
+county_name,contest_name,imprinted_id,ballot_type,counted,choice_per_voting_computer,choice_per_audit_board,consensus,record_type,audit_board_comment,timestamp,cvr_id
+Adams,Assessor,1-1-1,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 10:01:20.852,42764
+Adams,Assessor,1-1-9,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:03:44.767,42772
+Adams,Assessor,1-1-11,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:04:59.325,42774
+Adams,Assessor,1-1-13,std,1,"[""RICHARD B. RAMIREZ""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-06-29 10:06:24.218,42776
+Adams,Assessor,1-1-17,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:07:45.336,42780
+Adams,Assessor,1-1-19,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:09:00.505,42782
+Adams,Assessor,1-1-21,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:10:19.851,42784
+Adams,Assessor,1-1-28,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 10:11:53.376,42791
+Adams,Assessor,1-1-33,std,1,"[""RICHARD B. RAMIREZ""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 10:13:29.142,42796
+Adams,Assessor,1-1-34,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 10:14:07.513,42797
+Adams,Assessor,1-1-38,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:54:28.06,42801
+Adams,Assessor,1-1-40,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:55:35.348,42803
+Adams,Assessor,1-1-44,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:56:25.028,42807
+Adams,Assessor,1-1-46,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 16:57:14.58,42809
+Adams,Assessor,1-1-50,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:57:58.117,42813
+Adams,Assessor,1-1-52,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:58:40.266,42815
+Adams,Assessor,1-1-56,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:59:20.464,42819
+Adams,Assessor,1-1-57,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 16:59:39.156,42820
+Adams,Assessor,1-1-60,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-07-02 17:00:58.017,42823
+Adams,Assessor,1-1-66,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 17:05:21.664,42829
+Adams,Assessor,1-1-67,std,1,"[""RICHARD B. RAMIREZ""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-07-02 17:05:54.133,42830
+Adams,Assessor,1-1-63,std,4,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 17:04:28.167,42826
+Adams,Assessor,1-1-58,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 17:00:13.895,42821
+Adams,Assessor,1-1-54,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:59:01.077,42817
+Adams,Assessor,1-1-51,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 16:58:20.437,42814
+Adams,Assessor,1-1-49,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 16:57:35.886,42812
+Adams,Assessor,1-1-45,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 16:56:47.553,42808
+Adams,Assessor,1-1-41,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 16:56:04.659,42804
+Adams,Assessor,1-1-39,std,3,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 16:54:55.93,42802
+Adams,Assessor,1-1-36,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 16:54:03.095,42799
+Adams,Assessor,1-1-31,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:12:41.45,42794
+Adams,Assessor,1-1-23,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 10:11:06.212,42786
+Adams,Assessor,1-1-20,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 10:09:38.59,42783
+Adams,Assessor,1-1-18,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 10:08:22.854,42781
+Adams,Assessor,1-1-15,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 10:07:07.665,42778
+Adams,Assessor,1-1-12,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 10:05:36.514,42775
+Adams,Assessor,1-1-10,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 10:04:23.824,42773
+Adams,Assessor,1-1-8,std,3,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 10:03:09.935,42771
+Adams,Assessor,1-1-2,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-06-29 10:02:00.311,42765
+Adams,Assessor,1-1-6,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 10:02:33.201,42769
+Adams,Auditor-Controller,1-1-10,std,1,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 10:04:23.824,42773
+Adams,Auditor-Controller,1-1-56,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:59:20.464,42819
+Adams,Auditor-Controller,1-1-20,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 10:09:38.59,42783
+Adams,Auditor-Controller,1-1-54,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:59:01.077,42817
+Adams,Auditor-Controller,1-1-38,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:54:28.06,42801
+Adams,Auditor-Controller,1-1-13,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 10:06:24.218,42776
+Adams,Auditor-Controller,1-1-57,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 16:59:39.156,42820
+Adams,Auditor-Controller,1-1-9,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:03:44.767,42772
+Adams,Auditor-Controller,1-1-50,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:57:58.117,42813
+Adams,Auditor-Controller,1-1-46,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 16:57:14.58,42809
+Adams,Auditor-Controller,1-1-12,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 10:05:36.514,42775
+Adams,Auditor-Controller,1-1-60,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 17:00:58.017,42823
+Adams,Auditor-Controller,1-1-23,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 10:11:06.212,42786
+Adams,Auditor-Controller,1-1-58,std,2,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 17:00:13.895,42821
+Adams,Auditor-Controller,1-1-2,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 10:02:00.311,42765
+Adams,Auditor-Controller,1-1-33,std,1,"[""TONI SMART""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 10:13:29.142,42796
+Adams,Auditor-Controller,1-1-66,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 17:05:21.664,42829
+Adams,Auditor-Controller,1-1-31,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:12:41.45,42794
+Adams,Auditor-Controller,1-1-63,std,4,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 17:04:28.167,42826
+Adams,Auditor-Controller,1-1-67,std,1,"[""TONI SMART""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 17:05:54.133,42830
+Adams,Auditor-Controller,1-1-40,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:55:35.348,42803
+Adams,Auditor-Controller,1-1-17,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:07:45.336,42780
+Adams,Auditor-Controller,1-1-36,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:54:03.095,42799
+Adams,Auditor-Controller,1-1-41,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 16:56:04.659,42804
+Adams,Auditor-Controller,1-1-52,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:58:40.266,42815
+Adams,Auditor-Controller,1-1-6,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 10:02:33.201,42769
+Adams,Auditor-Controller,1-1-19,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:09:00.505,42782
+Adams,Auditor-Controller,1-1-11,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:04:59.325,42774
+Adams,Auditor-Controller,1-1-15,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:07:07.665,42778
+Adams,Auditor-Controller,1-1-45,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 16:56:47.553,42808
+Adams,Auditor-Controller,1-1-34,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 10:14:07.513,42797
+Adams,Auditor-Controller,1-1-21,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 10:10:19.851,42784
+Adams,Auditor-Controller,1-1-1,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 10:01:20.852,42764
+Adams,Auditor-Controller,1-1-49,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 16:57:35.886,42812
+Adams,Auditor-Controller,1-1-51,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 16:58:20.437,42814
+Adams,Auditor-Controller,1-1-8,std,3,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 10:03:09.935,42771
+Adams,Auditor-Controller,1-1-28,std,2,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 10:11:53.376,42791
+Adams,Auditor-Controller,1-1-39,std,3,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 16:54:55.93,42802
+Adams,Auditor-Controller,1-1-44,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 16:56:25.028,42807
+Adams,Auditor-Controller,1-1-18,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 10:08:22.854,42781
+Adams,Clerk-Recorder,1-1-15,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:07:07.665,42778
+Adams,Clerk-Recorder,1-1-6,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:02:33.201,42769
+Adams,Clerk-Recorder,1-1-50,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:57:58.117,42813
+Adams,Clerk-Recorder,1-1-9,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 10:03:44.767,42772
+Adams,Clerk-Recorder,1-1-20,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:09:38.59,42783
+Adams,Clerk-Recorder,1-1-11,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 10:04:59.325,42774
+Adams,Clerk-Recorder,1-1-13,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:06:24.218,42776
+Adams,Clerk-Recorder,1-1-33,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:13:29.142,42796
+Adams,Clerk-Recorder,1-1-2,std,2,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 10:02:00.311,42765
+Adams,Clerk-Recorder,1-1-17,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 10:07:45.336,42780
+Adams,Clerk-Recorder,1-1-52,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:58:40.266,42815
+Adams,Clerk-Recorder,1-1-19,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 10:09:00.505,42782
+Adams,Clerk-Recorder,1-1-21,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 10:10:19.851,42784
+Adams,Clerk-Recorder,1-1-18,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:08:22.854,42781
+Adams,Clerk-Recorder,1-1-28,std,2,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 10:11:53.376,42791
+Adams,Clerk-Recorder,1-1-56,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:59:20.464,42819
+Adams,Clerk-Recorder,1-1-12,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:05:36.514,42775
+Adams,Clerk-Recorder,1-1-57,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 16:59:39.156,42820
+Adams,Clerk-Recorder,1-1-38,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:54:28.06,42801
+Adams,Clerk-Recorder,1-1-60,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 17:00:58.017,42823
+Adams,Clerk-Recorder,1-1-66,std,1,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 17:05:21.664,42829
+Adams,Clerk-Recorder,1-1-67,std,1,"[""HUGH NGUYEN""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 17:05:54.133,42830
+Adams,Clerk-Recorder,1-1-40,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 16:55:35.348,42803
+Adams,Clerk-Recorder,1-1-63,std,4,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 17:04:28.167,42826
+Adams,Clerk-Recorder,1-1-58,std,2,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 17:00:13.895,42821
+Adams,Clerk-Recorder,1-1-10,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:04:23.824,42773
+Adams,Clerk-Recorder,1-1-54,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:59:01.077,42817
+Adams,Clerk-Recorder,1-1-51,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 16:58:20.437,42814
+Adams,Clerk-Recorder,1-1-44,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:56:25.028,42807
+Adams,Clerk-Recorder,1-1-49,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 16:57:35.886,42812
+Adams,Clerk-Recorder,1-1-45,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 16:56:47.553,42808
+Adams,Clerk-Recorder,1-1-41,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 16:56:04.659,42804
+Adams,Clerk-Recorder,1-1-8,std,3,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:03:09.935,42771
+Adams,Clerk-Recorder,1-1-39,std,3,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 16:54:55.93,42802
+Adams,Clerk-Recorder,1-1-46,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:57:14.58,42809
+Adams,Clerk-Recorder,1-1-36,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 16:54:03.095,42799
+Adams,Clerk-Recorder,1-1-1,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:01:20.852,42764
+Adams,Clerk-Recorder,1-1-31,std,1,"[""HUGH NGUYEN""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 10:12:41.45,42794
+Adams,Clerk-Recorder,1-1-34,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 10:14:07.513,42797
+Adams,Clerk-Recorder,1-1-23,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:11:06.212,42786
+Adams,District Attorney-Public Administrator,1-1-28,std,2,"[""BRETT MURDOCK""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-06-29 10:11:53.376,42791
+Adams,District Attorney-Public Administrator,1-1-51,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 16:58:20.437,42814
+Adams,District Attorney-Public Administrator,1-1-20,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:09:38.59,42783
+Adams,District Attorney-Public Administrator,1-1-33,std,1,"[""TONY RACKAUCKAS""]","[""LENORE ALBERT-SHERIDAN""]",YES,UPLOADED,"",2018-06-29 10:13:29.142,42796
+Adams,District Attorney-Public Administrator,1-1-1,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:01:20.852,42764
+Adams,District Attorney-Public Administrator,1-1-50,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:57:58.117,42813
+Adams,District Attorney-Public Administrator,1-1-49,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 16:57:35.886,42812
+Adams,District Attorney-Public Administrator,1-1-23,std,2,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 10:11:06.212,42786
+Adams,District Attorney-Public Administrator,1-1-21,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 10:10:19.851,42784
+Adams,District Attorney-Public Administrator,1-1-44,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:56:25.028,42807
+Adams,District Attorney-Public Administrator,1-1-18,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:08:22.854,42781
+Adams,District Attorney-Public Administrator,1-1-45,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 16:56:47.553,42808
+Adams,District Attorney-Public Administrator,1-1-46,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:57:14.58,42809
+Adams,District Attorney-Public Administrator,1-1-52,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:58:40.266,42815
+Adams,District Attorney-Public Administrator,1-1-8,std,3,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:03:09.935,42771
+Adams,District Attorney-Public Administrator,1-1-19,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 10:09:00.505,42782
+Adams,District Attorney-Public Administrator,1-1-41,std,2,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 16:56:04.659,42804
+Adams,District Attorney-Public Administrator,1-1-31,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 10:12:41.45,42794
+Adams,District Attorney-Public Administrator,1-1-17,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 10:07:45.336,42780
+Adams,District Attorney-Public Administrator,1-1-2,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:02:00.311,42765
+Adams,District Attorney-Public Administrator,1-1-13,std,1,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 10:06:24.218,42776
+Adams,District Attorney-Public Administrator,1-1-15,std,2,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 10:07:07.665,42778
+Adams,District Attorney-Public Administrator,1-1-39,std,3,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 16:54:55.93,42802
+Adams,District Attorney-Public Administrator,1-1-67,std,1,"[""TONY RACKAUCKAS""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-07-02 17:05:54.133,42830
+Adams,District Attorney-Public Administrator,1-1-9,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 10:03:44.767,42772
+Adams,District Attorney-Public Administrator,1-1-40,std,1,"[""BRETT MURDOCK""]","[""LENORE ALBERT-SHERIDAN""]",YES,UPLOADED,"",2018-07-02 16:55:35.348,42803
+Adams,District Attorney-Public Administrator,1-1-63,std,4,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 17:04:28.167,42826
+Adams,District Attorney-Public Administrator,1-1-34,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:14:07.513,42797
+Adams,District Attorney-Public Administrator,1-1-66,std,1,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 17:05:21.664,42829
+Adams,District Attorney-Public Administrator,1-1-10,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:04:23.824,42773
+Adams,District Attorney-Public Administrator,1-1-38,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:54:28.06,42801
+Adams,District Attorney-Public Administrator,1-1-58,std,2,"[""BRETT MURDOCK""]","[""LENORE ALBERT-SHERIDAN""]",YES,UPLOADED,"",2018-07-02 17:00:13.895,42821
+Adams,District Attorney-Public Administrator,1-1-11,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 10:04:59.325,42774
+Adams,District Attorney-Public Administrator,1-1-60,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 17:00:58.017,42823
+Adams,District Attorney-Public Administrator,1-1-6,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:02:33.201,42769
+Adams,District Attorney-Public Administrator,1-1-57,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 16:59:39.156,42820
+Adams,District Attorney-Public Administrator,1-1-54,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:59:01.077,42817
+Adams,District Attorney-Public Administrator,1-1-36,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:54:03.095,42799
+Adams,District Attorney-Public Administrator,1-1-56,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 16:59:20.464,42819
+Adams,District Attorney-Public Administrator,1-1-12,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 10:05:36.514,42775
+Adams,Sheriff-Coroner,1-1-28,std,2,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 10:11:53.376,42791
+Adams,Sheriff-Coroner,1-1-33,std,1,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:13:29.142,42796
+Adams,Sheriff-Coroner,1-1-34,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:14:07.513,42797
+Adams,Sheriff-Coroner,1-1-15,std,2,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:07:07.665,42778
+Adams,Sheriff-Coroner,1-1-38,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:54:28.06,42801
+Adams,Sheriff-Coroner,1-1-40,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 16:55:35.348,42803
+Adams,Sheriff-Coroner,1-1-44,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:56:25.028,42807
+Adams,Sheriff-Coroner,1-1-46,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:57:14.58,42809
+Adams,Sheriff-Coroner,1-1-50,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:57:58.117,42813
+Adams,Sheriff-Coroner,1-1-12,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:05:36.514,42775
+Adams,Sheriff-Coroner,1-1-52,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:58:40.266,42815
+Adams,Sheriff-Coroner,1-1-56,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:59:20.464,42819
+Adams,Sheriff-Coroner,1-1-57,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 16:59:39.156,42820
+Adams,Sheriff-Coroner,1-1-60,std,1,"[""DAVID C. HARRINGTON""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-07-02 17:00:58.017,42823
+Adams,Sheriff-Coroner,1-1-1,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:01:20.852,42764
+Adams,Sheriff-Coroner,1-1-66,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 17:05:21.664,42829
+Adams,Sheriff-Coroner,1-1-10,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:04:23.824,42773
+Adams,Sheriff-Coroner,1-1-67,std,1,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 17:05:54.133,42830
+Adams,Sheriff-Coroner,1-1-63,std,4,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 17:04:28.167,42826
+Adams,Sheriff-Coroner,1-1-58,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 17:00:13.895,42821
+Adams,Sheriff-Coroner,1-1-54,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:59:01.077,42817
+Adams,Sheriff-Coroner,1-1-51,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 16:58:20.437,42814
+Adams,Sheriff-Coroner,1-1-49,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 16:57:35.886,42812
+Adams,Sheriff-Coroner,1-1-8,std,3,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:03:09.935,42771
+Adams,Sheriff-Coroner,1-1-45,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 16:56:47.553,42808
+Adams,Sheriff-Coroner,1-1-41,std,2,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 16:56:04.659,42804
+Adams,Sheriff-Coroner,1-1-39,std,3,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 16:54:55.93,42802
+Adams,Sheriff-Coroner,1-1-36,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 16:54:03.095,42799
+Adams,Sheriff-Coroner,1-1-31,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 10:12:41.45,42794
+Adams,Sheriff-Coroner,1-1-2,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:02:00.311,42765
+Adams,Sheriff-Coroner,1-1-23,std,2,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 10:11:06.212,42786
+Adams,Sheriff-Coroner,1-1-20,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:09:38.59,42783
+Adams,Sheriff-Coroner,1-1-6,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:02:33.201,42769
+Adams,Sheriff-Coroner,1-1-9,std,2,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 10:03:44.767,42772
+Adams,Sheriff-Coroner,1-1-11,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 10:04:59.325,42774
+Adams,Sheriff-Coroner,1-1-13,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 10:06:24.218,42776
+Adams,Sheriff-Coroner,1-1-17,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 10:07:45.336,42780
+Adams,Sheriff-Coroner,1-1-18,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 10:08:22.854,42781
+Adams,Sheriff-Coroner,1-1-19,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 10:09:00.505,42782
+Adams,Sheriff-Coroner,1-1-21,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 10:10:19.851,42784
+Alamosa,Assessor,1-1-66,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:38:49.225,44857
+Alamosa,Assessor,1-1-6,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 09:11:01.27,44797
+Alamosa,Assessor,1-1-9,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 09:11:53.696,44800
+Alamosa,Assessor,1-1-11,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 09:13:03.281,44802
+Alamosa,Assessor,1-1-13,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 09:14:04.753,44804
+Alamosa,Assessor,1-1-17,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 09:15:03.726,44808
+Alamosa,Assessor,1-1-18,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:15:35.601,44809
+Alamosa,Assessor,1-1-20,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:16:21.204,44811
+Alamosa,Assessor,1-1-23,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 09:17:12.155,44814
+Alamosa,Assessor,1-1-31,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 09:17:56.244,44822
+Alamosa,Assessor,1-1-34,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 09:19:11.079,44825
+Alamosa,Assessor,1-1-38,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 11:30:29.061,44829
+Alamosa,Assessor,1-1-39,std,3,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:31:02.494,44830
+Alamosa,Assessor,1-1-41,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 11:32:01.206,44832
+Alamosa,Assessor,1-1-45,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:33:21.971,44836
+Alamosa,Assessor,1-1-49,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 11:34:09.089,44840
+Alamosa,Assessor,1-1-51,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 11:35:02.804,44842
+Alamosa,Assessor,1-1-54,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 11:35:57.346,44845
+Alamosa,Assessor,1-1-57,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 11:37:05.412,44848
+Alamosa,Assessor,1-1-60,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 11:37:58.171,44851
+Alamosa,Assessor,1-1-1,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:09:39.649,44792
+Alamosa,Assessor,1-1-2,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-06-29 09:10:17.508,44793
+Alamosa,Assessor,1-1-8,std,3,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:11:31.264,44799
+Alamosa,Assessor,1-1-10,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:12:28.634,44801
+Alamosa,Assessor,1-1-12,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:13:33.306,44803
+Alamosa,Assessor,1-1-15,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 09:14:36.248,44806
+Alamosa,Assessor,1-1-19,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 09:15:56.053,44810
+Alamosa,Assessor,1-1-21,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 09:16:50.305,44812
+Alamosa,Assessor,1-1-28,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 09:17:36.067,44819
+Alamosa,Assessor,1-1-33,std,1,"[""RICHARD B. RAMIREZ""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-06-29 09:18:32.683,44824
+Alamosa,Assessor,1-1-36,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 11:30:05.33,44827
+Alamosa,Assessor,1-1-40,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-07-02 11:31:37.056,44831
+Alamosa,Assessor,1-1-44,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:32:45.023,44835
+Alamosa,Assessor,1-1-46,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 11:33:46.629,44837
+Alamosa,Assessor,1-1-50,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 11:34:38.545,44841
+Alamosa,Assessor,1-1-52,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:35:35.278,44843
+Alamosa,Assessor,1-1-56,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:36:31.961,44847
+Alamosa,Assessor,1-1-58,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 11:37:37.05,44849
+Alamosa,Assessor,1-1-63,std,4,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 11:38:19.086,44854
+Alamosa,Assessor,1-1-67,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 11:39:31.285,44858
+Alamosa,Auditor-Controller,1-1-44,std,1,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 11:32:45.023,44835
+Alamosa,Auditor-Controller,1-1-33,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:18:32.683,44824
+Alamosa,Auditor-Controller,1-1-2,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:10:17.508,44793
+Alamosa,Auditor-Controller,1-1-23,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 09:17:12.155,44814
+Alamosa,Auditor-Controller,1-1-63,std,4,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 11:38:19.086,44854
+Alamosa,Auditor-Controller,1-1-18,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:15:35.601,44809
+Alamosa,Auditor-Controller,1-1-36,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:30:05.33,44827
+Alamosa,Auditor-Controller,1-1-17,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:15:03.726,44808
+Alamosa,Auditor-Controller,1-1-13,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:14:04.753,44804
+Alamosa,Auditor-Controller,1-1-58,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 11:37:37.05,44849
+Alamosa,Auditor-Controller,1-1-31,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 09:17:56.244,44822
+Alamosa,Auditor-Controller,1-1-49,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 11:34:09.089,44840
+Alamosa,Auditor-Controller,1-1-28,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 09:17:36.067,44819
+Alamosa,Auditor-Controller,1-1-54,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:35:57.346,44845
+Alamosa,Auditor-Controller,1-1-56,std,1,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 11:36:31.961,44847
+Alamosa,Auditor-Controller,1-1-46,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:33:46.629,44837
+Alamosa,Auditor-Controller,1-1-10,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 09:12:28.634,44801
+Alamosa,Auditor-Controller,1-1-15,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 09:14:36.248,44806
+Alamosa,Auditor-Controller,1-1-52,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 11:35:35.278,44843
+Alamosa,Auditor-Controller,1-1-20,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 09:16:21.204,44811
+Alamosa,Auditor-Controller,1-1-40,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:31:37.056,44831
+Alamosa,Auditor-Controller,1-1-12,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 09:13:33.306,44803
+Alamosa,Auditor-Controller,1-1-50,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:34:38.545,44841
+Alamosa,Auditor-Controller,1-1-21,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:16:50.305,44812
+Alamosa,Auditor-Controller,1-1-45,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 11:33:21.971,44836
+Alamosa,Auditor-Controller,1-1-19,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 09:15:56.053,44810
+Alamosa,Auditor-Controller,1-1-6,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:11:01.27,44797
+Alamosa,Auditor-Controller,1-1-38,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:30:29.061,44829
+Alamosa,Auditor-Controller,1-1-8,std,3,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 09:11:31.264,44799
+Alamosa,Auditor-Controller,1-1-1,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 09:09:39.649,44792
+Alamosa,Auditor-Controller,1-1-41,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 11:32:01.206,44832
+Alamosa,Auditor-Controller,1-1-9,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 09:11:53.696,44800
+Alamosa,Auditor-Controller,1-1-51,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 11:35:02.804,44842
+Alamosa,Auditor-Controller,1-1-66,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 11:38:49.225,44857
+Alamosa,Auditor-Controller,1-1-34,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:19:11.079,44825
+Alamosa,Auditor-Controller,1-1-60,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 11:37:58.171,44851
+Alamosa,Auditor-Controller,1-1-11,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 09:13:03.281,44802
+Alamosa,Auditor-Controller,1-1-67,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 11:39:31.285,44858
+Alamosa,Auditor-Controller,1-1-57,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 11:37:05.412,44848
+Alamosa,Auditor-Controller,1-1-39,std,3,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 11:31:02.494,44830
+Alamosa,Clerk-Recorder,1-1-41,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 11:32:01.206,44832
+Alamosa,Clerk-Recorder,1-1-13,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:14:04.753,44804
+Alamosa,Clerk-Recorder,1-1-17,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 09:15:03.726,44808
+Alamosa,Clerk-Recorder,1-1-54,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:35:57.346,44845
+Alamosa,Clerk-Recorder,1-1-36,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:30:05.33,44827
+Alamosa,Clerk-Recorder,1-1-15,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:14:36.248,44806
+Alamosa,Clerk-Recorder,1-1-18,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:15:35.601,44809
+Alamosa,Clerk-Recorder,1-1-40,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:31:37.056,44831
+Alamosa,Clerk-Recorder,1-1-34,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:19:11.079,44825
+Alamosa,Clerk-Recorder,1-1-20,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 09:16:21.204,44811
+Alamosa,Clerk-Recorder,1-1-28,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 09:17:36.067,44819
+Alamosa,Clerk-Recorder,1-1-23,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 09:17:12.155,44814
+Alamosa,Clerk-Recorder,1-1-46,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:33:46.629,44837
+Alamosa,Clerk-Recorder,1-1-31,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 09:17:56.244,44822
+Alamosa,Clerk-Recorder,1-1-1,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 09:09:39.649,44792
+Alamosa,Clerk-Recorder,1-1-66,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:38:49.225,44857
+Alamosa,Clerk-Recorder,1-1-21,std,1,"[""HUGH NGUYEN""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 09:16:50.305,44812
+Alamosa,Clerk-Recorder,1-1-51,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 11:35:02.804,44842
+Alamosa,Clerk-Recorder,1-1-33,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:18:32.683,44824
+Alamosa,Clerk-Recorder,1-1-67,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 11:39:31.285,44858
+Alamosa,Clerk-Recorder,1-1-12,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 09:13:33.306,44803
+Alamosa,Clerk-Recorder,1-1-63,std,4,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 11:38:19.086,44854
+Alamosa,Clerk-Recorder,1-1-2,std,2,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:10:17.508,44793
+Alamosa,Clerk-Recorder,1-1-49,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 11:34:09.089,44840
+Alamosa,Clerk-Recorder,1-1-60,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:37:58.171,44851
+Alamosa,Clerk-Recorder,1-1-58,std,2,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:37:37.05,44849
+Alamosa,Clerk-Recorder,1-1-19,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 09:15:56.053,44810
+Alamosa,Clerk-Recorder,1-1-57,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 11:37:05.412,44848
+Alamosa,Clerk-Recorder,1-1-56,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:36:31.961,44847
+Alamosa,Clerk-Recorder,1-1-10,std,1,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 09:12:28.634,44801
+Alamosa,Clerk-Recorder,1-1-52,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:35:35.278,44843
+Alamosa,Clerk-Recorder,1-1-45,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:33:21.971,44836
+Alamosa,Clerk-Recorder,1-1-50,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:34:38.545,44841
+Alamosa,Clerk-Recorder,1-1-44,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:32:45.023,44835
+Alamosa,Clerk-Recorder,1-1-6,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 09:11:01.27,44797
+Alamosa,Clerk-Recorder,1-1-38,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 11:30:29.061,44829
+Alamosa,Clerk-Recorder,1-1-9,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 09:11:53.696,44800
+Alamosa,Clerk-Recorder,1-1-8,std,3,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 09:11:31.264,44799
+Alamosa,Clerk-Recorder,1-1-39,std,3,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:31:02.494,44830
+Alamosa,Clerk-Recorder,1-1-11,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:13:03.281,44802
+Alamosa,District Attorney-Public Administrator,1-1-50,std,2,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 11:34:38.545,44841
+Alamosa,District Attorney-Public Administrator,1-1-66,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:38:49.225,44857
+Alamosa,District Attorney-Public Administrator,1-1-1,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 09:09:39.649,44792
+Alamosa,District Attorney-Public Administrator,1-1-10,std,1,"[""BRETT MURDOCK""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-06-29 09:12:28.634,44801
+Alamosa,District Attorney-Public Administrator,1-1-2,std,2,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 09:10:17.508,44793
+Alamosa,District Attorney-Public Administrator,1-1-8,std,3,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 09:11:31.264,44799
+Alamosa,District Attorney-Public Administrator,1-1-28,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 09:17:36.067,44819
+Alamosa,District Attorney-Public Administrator,1-1-40,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:31:37.056,44831
+Alamosa,District Attorney-Public Administrator,1-1-21,std,1,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 09:16:50.305,44812
+Alamosa,District Attorney-Public Administrator,1-1-36,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:30:05.33,44827
+Alamosa,District Attorney-Public Administrator,1-1-67,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 11:39:31.285,44858
+Alamosa,District Attorney-Public Administrator,1-1-63,std,4,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 11:38:19.086,44854
+Alamosa,District Attorney-Public Administrator,1-1-19,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 09:15:56.053,44810
+Alamosa,District Attorney-Public Administrator,1-1-58,std,2,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 11:37:37.05,44849
+Alamosa,District Attorney-Public Administrator,1-1-56,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 11:36:31.961,44847
+Alamosa,District Attorney-Public Administrator,1-1-52,std,1,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 11:35:35.278,44843
+Alamosa,District Attorney-Public Administrator,1-1-6,std,2,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 09:11:01.27,44797
+Alamosa,District Attorney-Public Administrator,1-1-9,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 09:11:53.696,44800
+Alamosa,District Attorney-Public Administrator,1-1-15,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 09:14:36.248,44806
+Alamosa,District Attorney-Public Administrator,1-1-11,std,1,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 09:13:03.281,44802
+Alamosa,District Attorney-Public Administrator,1-1-13,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 09:14:04.753,44804
+Alamosa,District Attorney-Public Administrator,1-1-46,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:33:46.629,44837
+Alamosa,District Attorney-Public Administrator,1-1-17,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 09:15:03.726,44808
+Alamosa,District Attorney-Public Administrator,1-1-18,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 09:15:35.601,44809
+Alamosa,District Attorney-Public Administrator,1-1-20,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 09:16:21.204,44811
+Alamosa,District Attorney-Public Administrator,1-1-44,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:32:45.023,44835
+Alamosa,District Attorney-Public Administrator,1-1-23,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 09:17:12.155,44814
+Alamosa,District Attorney-Public Administrator,1-1-31,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 09:17:56.244,44822
+Alamosa,District Attorney-Public Administrator,1-1-34,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 09:19:11.079,44825
+Alamosa,District Attorney-Public Administrator,1-1-38,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:30:29.061,44829
+Alamosa,District Attorney-Public Administrator,1-1-39,std,3,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 11:31:02.494,44830
+Alamosa,District Attorney-Public Administrator,1-1-12,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 09:13:33.306,44803
+Alamosa,District Attorney-Public Administrator,1-1-41,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 11:32:01.206,44832
+Alamosa,District Attorney-Public Administrator,1-1-33,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 09:18:32.683,44824
+Alamosa,District Attorney-Public Administrator,1-1-45,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 11:33:21.971,44836
+Alamosa,District Attorney-Public Administrator,1-1-49,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 11:34:09.089,44840
+Alamosa,District Attorney-Public Administrator,1-1-51,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 11:35:02.804,44842
+Alamosa,District Attorney-Public Administrator,1-1-54,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:35:57.346,44845
+Alamosa,District Attorney-Public Administrator,1-1-57,std,1,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 11:37:05.412,44848
+Alamosa,District Attorney-Public Administrator,1-1-60,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 11:37:58.171,44851
+Alamosa,Sheriff-Coroner,1-1-12,std,1,"[""DAVID C. HARRINGTON""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-06-29 09:13:33.306,44803
+Alamosa,Sheriff-Coroner,1-1-11,std,1,"[""DON BARNES""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-06-29 09:13:03.281,44802
+Alamosa,Sheriff-Coroner,1-1-9,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 09:11:53.696,44800
+Alamosa,Sheriff-Coroner,1-1-10,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:12:28.634,44801
+Alamosa,Sheriff-Coroner,1-1-39,std,3,"[""DON BARNES""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-07-02 11:31:02.494,44830
+Alamosa,Sheriff-Coroner,1-1-8,std,3,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 09:11:31.264,44799
+Alamosa,Sheriff-Coroner,1-1-15,std,2,"[""DON BARNES""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-06-29 09:14:36.248,44806
+Alamosa,Sheriff-Coroner,1-1-6,std,2,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 09:11:01.27,44797
+Alamosa,Sheriff-Coroner,1-1-2,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:10:17.508,44793
+Alamosa,Sheriff-Coroner,1-1-41,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 11:32:01.206,44832
+Alamosa,Sheriff-Coroner,1-1-60,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:37:58.171,44851
+Alamosa,Sheriff-Coroner,1-1-46,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:33:46.629,44837
+Alamosa,Sheriff-Coroner,1-1-50,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:34:38.545,44841
+Alamosa,Sheriff-Coroner,1-1-57,std,1,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 11:37:05.412,44848
+Alamosa,Sheriff-Coroner,1-1-45,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 11:33:21.971,44836
+Alamosa,Sheriff-Coroner,1-1-52,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 11:35:35.278,44843
+Alamosa,Sheriff-Coroner,1-1-56,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:36:31.961,44847
+Alamosa,Sheriff-Coroner,1-1-58,std,2,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 11:37:37.05,44849
+Alamosa,Sheriff-Coroner,1-1-1,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 09:09:39.649,44792
+Alamosa,Sheriff-Coroner,1-1-49,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 11:34:09.089,44840
+Alamosa,Sheriff-Coroner,1-1-63,std,4,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 11:38:19.086,44854
+Alamosa,Sheriff-Coroner,1-1-67,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 11:39:31.285,44858
+Alamosa,Sheriff-Coroner,1-1-19,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 09:15:56.053,44810
+Alamosa,Sheriff-Coroner,1-1-44,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:32:45.023,44835
+Alamosa,Sheriff-Coroner,1-1-51,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 11:35:02.804,44842
+Alamosa,Sheriff-Coroner,1-1-40,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:31:37.056,44831
+Alamosa,Sheriff-Coroner,1-1-21,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 09:16:50.305,44812
+Alamosa,Sheriff-Coroner,1-1-33,std,1,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:18:32.683,44824
+Alamosa,Sheriff-Coroner,1-1-28,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 09:17:36.067,44819
+Alamosa,Sheriff-Coroner,1-1-31,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 09:17:56.244,44822
+Alamosa,Sheriff-Coroner,1-1-23,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 09:17:12.155,44814
+Alamosa,Sheriff-Coroner,1-1-20,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:16:21.204,44811
+Alamosa,Sheriff-Coroner,1-1-18,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:15:35.601,44809
+Alamosa,Sheriff-Coroner,1-1-66,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:38:49.225,44857
+Alamosa,Sheriff-Coroner,1-1-34,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 09:19:11.079,44825
+Alamosa,Sheriff-Coroner,1-1-17,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 09:15:03.726,44808
+Alamosa,Sheriff-Coroner,1-1-13,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 09:14:04.753,44804
+Alamosa,Sheriff-Coroner,1-1-36,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:30:05.33,44827
+Alamosa,Sheriff-Coroner,1-1-54,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:35:57.346,44845
+Alamosa,Sheriff-Coroner,1-1-38,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 11:30:29.061,44829
+Arapahoe,Assessor,1-1-15,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:22:04.903,46832
+Arapahoe,Assessor,1-1-12,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 14:21:23.101,46829
+Arapahoe,Assessor,1-1-10,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 14:20:25.671,46827
+Arapahoe,Assessor,1-1-8,std,3,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 14:19:31.711,46825
+Arapahoe,Assessor,1-1-2,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 14:18:29.503,46819
+Arapahoe,Assessor,1-1-1,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 14:17:56.33,46818
+Arapahoe,Assessor,1-1-56,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:31:36.735,46873
+Arapahoe,Assessor,1-1-52,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:30:30.018,46869
+Arapahoe,Assessor,1-1-50,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:29:29.988,46867
+Arapahoe,Assessor,1-1-46,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:28:27.272,46863
+Arapahoe,Assessor,1-1-44,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:27:29.028,46861
+Arapahoe,Assessor,1-1-39,std,3,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:25:35.873,46856
+Arapahoe,Assessor,1-1-36,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-07-02 14:24:34.611,46853
+Arapahoe,Assessor,1-1-6,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 14:18:57.169,46823
+Arapahoe,Assessor,1-1-9,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:19:52.462,46826
+Arapahoe,Assessor,1-1-28,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-06-29 14:25:09.95,46845
+Arapahoe,Assessor,1-1-21,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:24:06.707,46838
+Arapahoe,Assessor,1-1-66,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:34:25.562,46883
+Arapahoe,Assessor,1-1-19,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:23:21.108,46836
+Arapahoe,Assessor,1-1-17,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 14:22:33.248,46834
+Arapahoe,Assessor,1-1-63,std,4,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:33:48.505,46880
+Arapahoe,Assessor,1-1-13,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:21:43.826,46830
+Arapahoe,Assessor,1-1-11,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:20:56.873,46828
+Arapahoe,Assessor,1-1-31,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 14:25:42.517,46848
+Arapahoe,Assessor,1-1-60,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:33:11.304,46877
+Arapahoe,Assessor,1-1-57,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:32:05.441,46874
+Arapahoe,Assessor,1-1-54,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-07-02 14:31:06.979,46871
+Arapahoe,Assessor,1-1-51,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:30:03.178,46868
+Arapahoe,Assessor,1-1-49,std,1,"[""RICHARD B. RAMIREZ""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-07-02 14:29:02.673,46866
+Arapahoe,Assessor,1-1-67,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:35:03.669,46884
+Arapahoe,Assessor,1-1-45,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:27:57.551,46862
+Arapahoe,Assessor,1-1-41,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:26:54.045,46858
+Arapahoe,Assessor,1-1-40,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-07-02 14:26:26.56,46857
+Arapahoe,Assessor,1-1-58,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:32:35.418,46875
+Arapahoe,Assessor,1-1-38,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:25:02.021,46855
+Arapahoe,Assessor,1-1-34,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 14:26:42.16,46851
+Arapahoe,Assessor,1-1-33,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 14:26:05.052,46850
+Arapahoe,Assessor,1-1-23,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 14:24:38.578,46840
+Arapahoe,Assessor,1-1-20,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 14:23:44.302,46837
+Arapahoe,Assessor,1-1-18,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 14:22:58.017,46835
+Arapahoe,Auditor-Controller,1-1-8,std,3,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:19:31.711,46825
+Arapahoe,Auditor-Controller,1-1-31,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:25:42.517,46848
+Arapahoe,Auditor-Controller,1-1-39,std,3,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:25:35.873,46856
+Arapahoe,Auditor-Controller,1-1-45,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:27:57.551,46862
+Arapahoe,Auditor-Controller,1-1-23,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:24:38.578,46840
+Arapahoe,Auditor-Controller,1-1-57,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:32:05.441,46874
+Arapahoe,Auditor-Controller,1-1-52,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:30:30.018,46869
+Arapahoe,Auditor-Controller,1-1-46,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:28:27.272,46863
+Arapahoe,Auditor-Controller,1-1-41,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:26:54.045,46858
+Arapahoe,Auditor-Controller,1-1-15,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:22:04.903,46832
+Arapahoe,Auditor-Controller,1-1-10,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:20:25.671,46827
+Arapahoe,Auditor-Controller,1-1-58,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:32:35.418,46875
+Arapahoe,Auditor-Controller,1-1-56,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:31:36.735,46873
+Arapahoe,Auditor-Controller,1-1-40,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:26:26.56,46857
+Arapahoe,Auditor-Controller,1-1-1,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 14:17:56.33,46818
+Arapahoe,Auditor-Controller,1-1-54,std,2,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 14:31:06.979,46871
+Arapahoe,Auditor-Controller,1-1-20,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 14:23:44.302,46837
+Arapahoe,Auditor-Controller,1-1-34,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:26:42.16,46851
+Arapahoe,Auditor-Controller,1-1-38,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:25:02.021,46855
+Arapahoe,Auditor-Controller,1-1-2,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 14:18:29.503,46819
+Arapahoe,Auditor-Controller,1-1-12,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:21:23.101,46829
+Arapahoe,Auditor-Controller,1-1-13,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:21:43.826,46830
+Arapahoe,Auditor-Controller,1-1-44,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:27:29.028,46861
+Arapahoe,Auditor-Controller,1-1-60,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:33:11.304,46877
+Arapahoe,Auditor-Controller,1-1-17,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:22:33.248,46834
+Arapahoe,Auditor-Controller,1-1-51,std,2,"[""TONI SMART""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 14:30:03.178,46868
+Arapahoe,Auditor-Controller,1-1-33,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:26:05.052,46850
+Arapahoe,Auditor-Controller,1-1-9,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:19:52.462,46826
+Arapahoe,Auditor-Controller,1-1-19,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:23:21.108,46836
+Arapahoe,Auditor-Controller,1-1-50,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:29:29.988,46867
+Arapahoe,Auditor-Controller,1-1-21,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:24:06.707,46838
+Arapahoe,Auditor-Controller,1-1-67,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:35:03.669,46884
+Arapahoe,Auditor-Controller,1-1-66,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:34:25.562,46883
+Arapahoe,Auditor-Controller,1-1-28,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 14:25:09.95,46845
+Arapahoe,Auditor-Controller,1-1-11,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 14:20:56.873,46828
+Arapahoe,Auditor-Controller,1-1-63,std,4,"[""TONI SMART""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 14:33:48.505,46880
+Arapahoe,Auditor-Controller,1-1-49,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:29:02.673,46866
+Arapahoe,Auditor-Controller,1-1-18,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 14:22:58.017,46835
+Arapahoe,Auditor-Controller,1-1-6,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 14:18:57.169,46823
+Arapahoe,Auditor-Controller,1-1-36,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:24:34.611,46853
+Arapahoe,Clerk-Recorder,1-1-19,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:23:21.108,46836
+Arapahoe,Clerk-Recorder,1-1-36,std,2,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:24:34.611,46853
+Arapahoe,Clerk-Recorder,1-1-39,std,3,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:25:35.873,46856
+Arapahoe,Clerk-Recorder,1-1-44,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:27:29.028,46861
+Arapahoe,Clerk-Recorder,1-1-46,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:28:27.272,46863
+Arapahoe,Clerk-Recorder,1-1-34,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:26:42.16,46851
+Arapahoe,Clerk-Recorder,1-1-50,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:29:29.988,46867
+Arapahoe,Clerk-Recorder,1-1-52,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:30:30.018,46869
+Arapahoe,Clerk-Recorder,1-1-60,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:33:11.304,46877
+Arapahoe,Clerk-Recorder,1-1-18,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 14:22:58.017,46835
+Arapahoe,Clerk-Recorder,1-1-1,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 14:17:56.33,46818
+Arapahoe,Clerk-Recorder,1-1-57,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:32:05.441,46874
+Arapahoe,Clerk-Recorder,1-1-12,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:21:23.101,46829
+Arapahoe,Clerk-Recorder,1-1-9,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:19:52.462,46826
+Arapahoe,Clerk-Recorder,1-1-31,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:25:42.517,46848
+Arapahoe,Clerk-Recorder,1-1-54,std,2,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 14:31:06.979,46871
+Arapahoe,Clerk-Recorder,1-1-33,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:26:05.052,46850
+Arapahoe,Clerk-Recorder,1-1-67,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:35:03.669,46884
+Arapahoe,Clerk-Recorder,1-1-51,std,2,"[""HUGH NGUYEN""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 14:30:03.178,46868
+Arapahoe,Clerk-Recorder,1-1-2,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 14:18:29.503,46819
+Arapahoe,Clerk-Recorder,1-1-49,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:29:02.673,46866
+Arapahoe,Clerk-Recorder,1-1-23,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:24:38.578,46840
+Arapahoe,Clerk-Recorder,1-1-45,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:27:57.551,46862
+Arapahoe,Clerk-Recorder,1-1-8,std,3,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:19:31.711,46825
+Arapahoe,Clerk-Recorder,1-1-58,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:32:35.418,46875
+Arapahoe,Clerk-Recorder,1-1-41,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:26:54.045,46858
+Arapahoe,Clerk-Recorder,1-1-40,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:26:26.56,46857
+Arapahoe,Clerk-Recorder,1-1-20,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 14:23:44.302,46837
+Arapahoe,Clerk-Recorder,1-1-10,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:20:25.671,46827
+Arapahoe,Clerk-Recorder,1-1-38,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:25:02.021,46855
+Arapahoe,Clerk-Recorder,1-1-15,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:22:04.903,46832
+Arapahoe,Clerk-Recorder,1-1-13,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:21:43.826,46830
+Arapahoe,Clerk-Recorder,1-1-63,std,4,"[""HUGH NGUYEN""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 14:33:48.505,46880
+Arapahoe,Clerk-Recorder,1-1-56,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:31:36.735,46873
+Arapahoe,Clerk-Recorder,1-1-17,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:22:33.248,46834
+Arapahoe,Clerk-Recorder,1-1-11,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:20:56.873,46828
+Arapahoe,Clerk-Recorder,1-1-21,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 14:24:06.707,46838
+Arapahoe,Clerk-Recorder,1-1-28,std,2,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:25:09.95,46845
+Arapahoe,Clerk-Recorder,1-1-66,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:34:25.562,46883
+Arapahoe,Clerk-Recorder,1-1-6,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 14:18:57.169,46823
+Arapahoe,District Attorney-Public Administrator,1-1-17,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:22:33.248,46834
+Arapahoe,District Attorney-Public Administrator,1-1-28,std,2,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 14:25:09.95,46845
+Arapahoe,District Attorney-Public Administrator,1-1-21,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:24:06.707,46838
+Arapahoe,District Attorney-Public Administrator,1-1-19,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:23:21.108,46836
+Arapahoe,District Attorney-Public Administrator,1-1-13,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:21:43.826,46830
+Arapahoe,District Attorney-Public Administrator,1-1-11,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:20:56.873,46828
+Arapahoe,District Attorney-Public Administrator,1-1-60,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 14:33:11.304,46877
+Arapahoe,District Attorney-Public Administrator,1-1-57,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:32:05.441,46874
+Arapahoe,District Attorney-Public Administrator,1-1-54,std,2,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 14:31:06.979,46871
+Arapahoe,District Attorney-Public Administrator,1-1-51,std,2,"[""TONY RACKAUCKAS""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-07-02 14:30:03.178,46868
+Arapahoe,District Attorney-Public Administrator,1-1-49,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:29:02.673,46866
+Arapahoe,District Attorney-Public Administrator,1-1-45,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:27:57.551,46862
+Arapahoe,District Attorney-Public Administrator,1-1-41,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:26:54.045,46858
+Arapahoe,District Attorney-Public Administrator,1-1-40,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 14:26:26.56,46857
+Arapahoe,District Attorney-Public Administrator,1-1-38,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:25:02.021,46855
+Arapahoe,District Attorney-Public Administrator,1-1-34,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 14:26:42.16,46851
+Arapahoe,District Attorney-Public Administrator,1-1-1,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 14:17:56.33,46818
+Arapahoe,District Attorney-Public Administrator,1-1-2,std,2,"[""BRETT MURDOCK""]","[""LENORE ALBERT-SHERIDAN""]",YES,UPLOADED,"",2018-06-29 14:18:29.503,46819
+Arapahoe,District Attorney-Public Administrator,1-1-8,std,3,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 14:19:31.711,46825
+Arapahoe,District Attorney-Public Administrator,1-1-10,std,1,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 14:20:25.671,46827
+Arapahoe,District Attorney-Public Administrator,1-1-12,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 14:21:23.101,46829
+Arapahoe,District Attorney-Public Administrator,1-1-15,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:22:04.903,46832
+Arapahoe,District Attorney-Public Administrator,1-1-18,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 14:22:58.017,46835
+Arapahoe,District Attorney-Public Administrator,1-1-20,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 14:23:44.302,46837
+Arapahoe,District Attorney-Public Administrator,1-1-23,std,2,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 14:24:38.578,46840
+Arapahoe,District Attorney-Public Administrator,1-1-33,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:26:05.052,46850
+Arapahoe,District Attorney-Public Administrator,1-1-9,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:19:52.462,46826
+Arapahoe,District Attorney-Public Administrator,1-1-6,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 14:18:57.169,46823
+Arapahoe,District Attorney-Public Administrator,1-1-36,std,2,"[""BRETT MURDOCK""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-07-02 14:24:34.611,46853
+Arapahoe,District Attorney-Public Administrator,1-1-39,std,3,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:25:35.873,46856
+Arapahoe,District Attorney-Public Administrator,1-1-44,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 14:27:29.028,46861
+Arapahoe,District Attorney-Public Administrator,1-1-46,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:28:27.272,46863
+Arapahoe,District Attorney-Public Administrator,1-1-50,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:29:29.988,46867
+Arapahoe,District Attorney-Public Administrator,1-1-52,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:30:30.018,46869
+Arapahoe,District Attorney-Public Administrator,1-1-56,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:31:36.735,46873
+Arapahoe,District Attorney-Public Administrator,1-1-58,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:32:35.418,46875
+Arapahoe,District Attorney-Public Administrator,1-1-67,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:35:03.669,46884
+Arapahoe,District Attorney-Public Administrator,1-1-31,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 14:25:42.517,46848
+Arapahoe,District Attorney-Public Administrator,1-1-63,std,4,"[""TONY RACKAUCKAS""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-07-02 14:33:48.505,46880
+Arapahoe,District Attorney-Public Administrator,1-1-66,std,1,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:34:25.562,46883
+Arapahoe,Sheriff-Coroner,1-1-40,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:26:26.56,46857
+Arapahoe,Sheriff-Coroner,1-1-38,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:25:02.021,46855
+Arapahoe,Sheriff-Coroner,1-1-34,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 14:26:42.16,46851
+Arapahoe,Sheriff-Coroner,1-1-9,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:19:52.462,46826
+Arapahoe,Sheriff-Coroner,1-1-20,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 14:23:44.302,46837
+Arapahoe,Sheriff-Coroner,1-1-33,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:26:05.052,46850
+Arapahoe,Sheriff-Coroner,1-1-58,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:32:35.418,46875
+Arapahoe,Sheriff-Coroner,1-1-23,std,2,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 14:24:38.578,46840
+Arapahoe,Sheriff-Coroner,1-1-56,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:31:36.735,46873
+Arapahoe,Sheriff-Coroner,1-1-1,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 14:17:56.33,46818
+Arapahoe,Sheriff-Coroner,1-1-52,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:30:30.018,46869
+Arapahoe,Sheriff-Coroner,1-1-50,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:29:29.988,46867
+Arapahoe,Sheriff-Coroner,1-1-63,std,4,"[""DON BARNES""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-07-02 14:33:48.505,46880
+Arapahoe,Sheriff-Coroner,1-1-46,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:28:27.272,46863
+Arapahoe,Sheriff-Coroner,1-1-2,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:18:29.503,46819
+Arapahoe,Sheriff-Coroner,1-1-44,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:27:29.028,46861
+Arapahoe,Sheriff-Coroner,1-1-39,std,3,"[""DON BARNES""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-07-02 14:25:35.873,46856
+Arapahoe,Sheriff-Coroner,1-1-36,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:24:34.611,46853
+Arapahoe,Sheriff-Coroner,1-1-6,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 14:18:57.169,46823
+Arapahoe,Sheriff-Coroner,1-1-8,std,3,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 14:19:31.711,46825
+Arapahoe,Sheriff-Coroner,1-1-21,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:24:06.707,46838
+Arapahoe,Sheriff-Coroner,1-1-28,std,2,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 14:25:09.95,46845
+Arapahoe,Sheriff-Coroner,1-1-19,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:23:21.108,46836
+Arapahoe,Sheriff-Coroner,1-1-17,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:22:33.248,46834
+Arapahoe,Sheriff-Coroner,1-1-10,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 14:20:25.671,46827
+Arapahoe,Sheriff-Coroner,1-1-13,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:21:43.826,46830
+Arapahoe,Sheriff-Coroner,1-1-11,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-06-29 14:20:56.873,46828
+Arapahoe,Sheriff-Coroner,1-1-60,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:33:11.304,46877
+Arapahoe,Sheriff-Coroner,1-1-31,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:25:42.517,46848
+Arapahoe,Sheriff-Coroner,1-1-12,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 14:21:23.101,46829
+Arapahoe,Sheriff-Coroner,1-1-66,std,1,"[""DAVID C. HARRINGTON""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-07-02 14:34:25.562,46883
+Arapahoe,Sheriff-Coroner,1-1-57,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:32:05.441,46874
+Arapahoe,Sheriff-Coroner,1-1-54,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:31:06.979,46871
+Arapahoe,Sheriff-Coroner,1-1-51,std,2,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:30:03.178,46868
+Arapahoe,Sheriff-Coroner,1-1-15,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 14:22:04.903,46832
+Arapahoe,Sheriff-Coroner,1-1-49,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:29:02.673,46866
+Arapahoe,Sheriff-Coroner,1-1-45,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:27:57.551,46862
+Arapahoe,Sheriff-Coroner,1-1-67,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:35:03.669,46884
+Arapahoe,Sheriff-Coroner,1-1-41,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:26:54.045,46858
+Arapahoe,Sheriff-Coroner,1-1-18,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 14:22:58.017,46835
+Archuleta,Assessor,1-1-51,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:12:05.356,48894
+Archuleta,Assessor,1-1-18,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 11:40:05.266,48861
+Archuleta,Assessor,1-1-15,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 11:39:12.437,48858
+Archuleta,Assessor,1-1-12,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 11:38:04.02,48855
+Archuleta,Assessor,1-1-11,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 11:37:40.218,48854
+Archuleta,Assessor,1-1-10,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 11:37:17.337,48853
+Archuleta,Assessor,1-1-8,std,3,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 11:36:23.656,48851
+Archuleta,Assessor,1-1-2,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 11:35:02.032,48845
+Archuleta,Assessor,1-1-13,std,1,"[""RICHARD B. RAMIREZ""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 11:38:39.291,48856
+Archuleta,Assessor,1-1-1,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-06-29 11:34:29.91,48844
+Archuleta,Assessor,1-1-28,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-06-29 11:42:54.191,48871
+Archuleta,Assessor,1-1-67,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:17:15.534,48910
+Archuleta,Assessor,1-1-63,std,4,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:15:58.076,48906
+Archuleta,Assessor,1-1-58,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-07-02 14:14:39.773,48901
+Archuleta,Assessor,1-1-57,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:13:59.5,48900
+Archuleta,Assessor,1-1-54,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:13:05.34,48897
+Archuleta,Assessor,1-1-38,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:07:20.766,48881
+Archuleta,Assessor,1-1-40,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:08:27.569,48883
+Archuleta,Assessor,1-1-44,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:09:33.253,48887
+Archuleta,Assessor,1-1-46,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:10:30.706,48889
+Archuleta,Assessor,1-1-50,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:11:31.82,48893
+Archuleta,Assessor,1-1-52,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:12:38.387,48895
+Archuleta,Assessor,1-1-56,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:13:31.893,48899
+Archuleta,Assessor,1-1-60,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""RICHARD B. RAMIREZ""]",YES,UPLOADED,"",2018-07-02 14:15:26.781,48903
+Archuleta,Assessor,1-1-66,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-07-02 14:16:36.562,48909
+Archuleta,Assessor,1-1-34,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 11:44:50.679,48877
+Archuleta,Assessor,1-1-49,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:11:03.267,48892
+Archuleta,Assessor,1-1-17,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 11:39:37.882,48860
+Archuleta,Assessor,1-1-45,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:10:00.766,48888
+Archuleta,Assessor,1-1-41,std,2,"[""RICHARD B. RAMIREZ""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-07-02 14:09:06.214,48884
+Archuleta,Assessor,1-1-39,std,3,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-07-02 14:07:56.259,48882
+Archuleta,Assessor,1-1-21,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 11:41:53.989,48864
+Archuleta,Assessor,1-1-36,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]",[],YES,UPLOADED,"",2018-07-02 14:06:48.74,48879
+Archuleta,Assessor,1-1-33,std,1,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 11:44:10.838,48876
+Archuleta,Assessor,1-1-6,std,2,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 11:35:56.795,48849
+Archuleta,Assessor,1-1-9,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 11:36:52.6,48852
+Archuleta,Assessor,1-1-19,std,2,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 11:40:43.854,48862
+Archuleta,Assessor,1-1-20,std,1,"[""NATHANIEL FERNANDEZ EPSTEIN""]","[""NATHANIEL FERNANDEZ EPSTEIN""]",YES,UPLOADED,"",2018-06-29 11:41:25.442,48863
+Archuleta,Assessor,1-1-23,std,2,"[""RICHARD B. RAMIREZ""]",[],YES,UPLOADED,"",2018-06-29 11:42:22.571,48866
+Archuleta,Assessor,1-1-31,std,1,"[""RICHARD B. RAMIREZ""]","[""CLAUDE PARRISH""]",YES,UPLOADED,"",2018-06-29 11:43:44.546,48874
+Archuleta,Auditor-Controller,1-1-54,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:13:05.34,48897
+Archuleta,Auditor-Controller,1-1-46,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:10:30.706,48889
+Archuleta,Auditor-Controller,1-1-38,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:07:20.766,48881
+Archuleta,Auditor-Controller,1-1-20,std,1,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 11:41:25.442,48863
+Archuleta,Auditor-Controller,1-1-2,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 11:35:02.032,48845
+Archuleta,Auditor-Controller,1-1-31,std,1,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 11:43:44.546,48874
+Archuleta,Auditor-Controller,1-1-50,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:11:31.82,48893
+Archuleta,Auditor-Controller,1-1-9,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 11:36:52.6,48852
+Archuleta,Auditor-Controller,1-1-49,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:11:03.267,48892
+Archuleta,Auditor-Controller,1-1-66,std,1,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 14:16:36.562,48909
+Archuleta,Auditor-Controller,1-1-19,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 11:40:43.854,48862
+Archuleta,Auditor-Controller,1-1-52,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:12:38.387,48895
+Archuleta,Auditor-Controller,1-1-34,std,1,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 11:44:50.679,48877
+Archuleta,Auditor-Controller,1-1-63,std,4,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:15:58.076,48906
+Archuleta,Auditor-Controller,1-1-21,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 11:41:53.989,48864
+Archuleta,Auditor-Controller,1-1-18,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 11:40:05.266,48861
+Archuleta,Auditor-Controller,1-1-56,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:13:31.893,48899
+Archuleta,Auditor-Controller,1-1-28,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 11:42:54.191,48871
+Archuleta,Auditor-Controller,1-1-60,std,1,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-07-02 14:15:26.781,48903
+Archuleta,Auditor-Controller,1-1-57,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:13:59.5,48900
+Archuleta,Auditor-Controller,1-1-13,std,1,"[""TONI SMART""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 11:38:39.291,48856
+Archuleta,Auditor-Controller,1-1-40,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:08:27.569,48883
+Archuleta,Auditor-Controller,1-1-8,std,3,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 11:36:23.656,48851
+Archuleta,Auditor-Controller,1-1-33,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 11:44:10.838,48876
+Archuleta,Auditor-Controller,1-1-11,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 11:37:40.218,48854
+Archuleta,Auditor-Controller,1-1-39,std,3,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:07:56.259,48882
+Archuleta,Auditor-Controller,1-1-51,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:12:05.356,48894
+Archuleta,Auditor-Controller,1-1-10,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 11:37:17.337,48853
+Archuleta,Auditor-Controller,1-1-23,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 11:42:22.571,48866
+Archuleta,Auditor-Controller,1-1-15,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-06-29 11:39:12.437,48858
+Archuleta,Auditor-Controller,1-1-44,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:09:33.253,48887
+Archuleta,Auditor-Controller,1-1-36,std,2,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-07-02 14:06:48.74,48879
+Archuleta,Auditor-Controller,1-1-41,std,2,"[""TONI SMART""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:09:06.214,48884
+Archuleta,Auditor-Controller,1-1-12,std,1,"[""ERIC H. WOOLERY""]",[],YES,UPLOADED,"",2018-06-29 11:38:04.02,48855
+Archuleta,Auditor-Controller,1-1-58,std,2,"[""ERIC H. WOOLERY""]","[""ERIC H. WOOLERY""]",YES,UPLOADED,"",2018-07-02 14:14:39.773,48901
+Archuleta,Auditor-Controller,1-1-17,std,2,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-06-29 11:39:37.882,48860
+Archuleta,Auditor-Controller,1-1-1,std,2,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 11:34:29.91,48844
+Archuleta,Auditor-Controller,1-1-67,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:17:15.534,48910
+Archuleta,Auditor-Controller,1-1-6,std,2,"[""ERIC H. WOOLERY""]","[""TONI SMART""]",YES,UPLOADED,"",2018-06-29 11:35:56.795,48849
+Archuleta,Auditor-Controller,1-1-45,std,1,"[""TONI SMART""]",[],YES,UPLOADED,"",2018-07-02 14:10:00.766,48888
+Archuleta,Clerk-Recorder,1-1-49,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:11:03.267,48892
+Archuleta,Clerk-Recorder,1-1-18,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 11:40:05.266,48861
+Archuleta,Clerk-Recorder,1-1-34,std,1,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 11:44:50.679,48877
+Archuleta,Clerk-Recorder,1-1-28,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 11:42:54.191,48871
+Archuleta,Clerk-Recorder,1-1-40,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:08:27.569,48883
+Archuleta,Clerk-Recorder,1-1-1,std,2,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:34:29.91,48844
+Archuleta,Clerk-Recorder,1-1-2,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 11:35:02.032,48845
+Archuleta,Clerk-Recorder,1-1-58,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:14:39.773,48901
+Archuleta,Clerk-Recorder,1-1-11,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:37:40.218,48854
+Archuleta,Clerk-Recorder,1-1-8,std,3,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 11:36:23.656,48851
+Archuleta,Clerk-Recorder,1-1-10,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 11:37:17.337,48853
+Archuleta,Clerk-Recorder,1-1-44,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:09:33.253,48887
+Archuleta,Clerk-Recorder,1-1-67,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:17:15.534,48910
+Archuleta,Clerk-Recorder,1-1-46,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:10:30.706,48889
+Archuleta,Clerk-Recorder,1-1-63,std,4,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:15:58.076,48906
+Archuleta,Clerk-Recorder,1-1-50,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:11:31.82,48893
+Archuleta,Clerk-Recorder,1-1-52,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:12:38.387,48895
+Archuleta,Clerk-Recorder,1-1-57,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:13:59.5,48900
+Archuleta,Clerk-Recorder,1-1-19,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:40:43.854,48862
+Archuleta,Clerk-Recorder,1-1-56,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:13:31.893,48899
+Archuleta,Clerk-Recorder,1-1-60,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:15:26.781,48903
+Archuleta,Clerk-Recorder,1-1-6,std,2,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 11:35:56.795,48849
+Archuleta,Clerk-Recorder,1-1-66,std,1,"[""STEVE ROCCO""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-07-02 14:16:36.562,48909
+Archuleta,Clerk-Recorder,1-1-31,std,1,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:43:44.546,48874
+Archuleta,Clerk-Recorder,1-1-54,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:13:05.34,48897
+Archuleta,Clerk-Recorder,1-1-12,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-06-29 11:38:04.02,48855
+Archuleta,Clerk-Recorder,1-1-13,std,1,"[""HUGH NGUYEN""]","[""STEVE ROCCO""]",YES,UPLOADED,"",2018-06-29 11:38:39.291,48856
+Archuleta,Clerk-Recorder,1-1-45,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:10:00.766,48888
+Archuleta,Clerk-Recorder,1-1-20,std,1,"[""STEVE ROCCO""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:41:25.442,48863
+Archuleta,Clerk-Recorder,1-1-9,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:36:52.6,48852
+Archuleta,Clerk-Recorder,1-1-41,std,2,"[""HUGH NGUYEN""]","[""HUGH NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:09:06.214,48884
+Archuleta,Clerk-Recorder,1-1-17,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:39:37.882,48860
+Archuleta,Clerk-Recorder,1-1-51,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:12:05.356,48894
+Archuleta,Clerk-Recorder,1-1-15,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:39:12.437,48858
+Archuleta,Clerk-Recorder,1-1-39,std,3,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-07-02 14:07:56.259,48882
+Archuleta,Clerk-Recorder,1-1-36,std,2,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:06:48.74,48879
+Archuleta,Clerk-Recorder,1-1-23,std,2,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:42:22.571,48866
+Archuleta,Clerk-Recorder,1-1-38,std,1,"[""STEVE ROCCO""]",[],YES,UPLOADED,"",2018-07-02 14:07:20.766,48881
+Archuleta,Clerk-Recorder,1-1-21,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:41:53.989,48864
+Archuleta,Clerk-Recorder,1-1-33,std,1,"[""HUGH NGUYEN""]",[],YES,UPLOADED,"",2018-06-29 11:44:10.838,48876
+Archuleta,District Attorney-Public Administrator,1-1-36,std,2,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:06:48.74,48879
+Archuleta,District Attorney-Public Administrator,1-1-45,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:10:00.766,48888
+Archuleta,District Attorney-Public Administrator,1-1-58,std,2,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 14:14:39.773,48901
+Archuleta,District Attorney-Public Administrator,1-1-1,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:34:29.91,48844
+Archuleta,District Attorney-Public Administrator,1-1-63,std,4,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:15:58.076,48906
+Archuleta,District Attorney-Public Administrator,1-1-9,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:36:52.6,48852
+Archuleta,District Attorney-Public Administrator,1-1-20,std,1,"[""BRETT MURDOCK""]","[""LENORE ALBERT-SHERIDAN""]",YES,UPLOADED,"",2018-06-29 11:41:25.442,48863
+Archuleta,District Attorney-Public Administrator,1-1-51,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:12:05.356,48894
+Archuleta,District Attorney-Public Administrator,1-1-67,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:17:15.534,48910
+Archuleta,District Attorney-Public Administrator,1-1-15,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:39:12.437,48858
+Archuleta,District Attorney-Public Administrator,1-1-41,std,2,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:09:06.214,48884
+Archuleta,District Attorney-Public Administrator,1-1-28,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:42:54.191,48871
+Archuleta,District Attorney-Public Administrator,1-1-44,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:09:33.253,48887
+Archuleta,District Attorney-Public Administrator,1-1-23,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:42:22.571,48866
+Archuleta,District Attorney-Public Administrator,1-1-10,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:37:17.337,48853
+Archuleta,District Attorney-Public Administrator,1-1-33,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:44:10.838,48876
+Archuleta,District Attorney-Public Administrator,1-1-18,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:40:05.266,48861
+Archuleta,District Attorney-Public Administrator,1-1-39,std,3,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:07:56.259,48882
+Archuleta,District Attorney-Public Administrator,1-1-17,std,2,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:39:37.882,48860
+Archuleta,District Attorney-Public Administrator,1-1-21,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:41:53.989,48864
+Archuleta,District Attorney-Public Administrator,1-1-19,std,2,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-06-29 11:40:43.854,48862
+Archuleta,District Attorney-Public Administrator,1-1-56,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:13:31.893,48899
+Archuleta,District Attorney-Public Administrator,1-1-38,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:07:20.766,48881
+Archuleta,District Attorney-Public Administrator,1-1-60,std,1,"[""BRETT MURDOCK""]","[""LENORE ALBERT-SHERIDAN""]",YES,UPLOADED,"",2018-07-02 14:15:26.781,48903
+Archuleta,District Attorney-Public Administrator,1-1-52,std,1,"[""BRETT MURDOCK""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:12:38.387,48895
+Archuleta,District Attorney-Public Administrator,1-1-8,std,3,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:36:23.656,48851
+Archuleta,District Attorney-Public Administrator,1-1-57,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-07-02 14:13:59.5,48900
+Archuleta,District Attorney-Public Administrator,1-1-31,std,1,"[""TONY RACKAUCKAS""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-06-29 11:43:44.546,48874
+Archuleta,District Attorney-Public Administrator,1-1-66,std,1,"[""BRETT MURDOCK""]","[""TODD SPITZER""]",YES,UPLOADED,"",2018-07-02 14:16:36.562,48909
+Archuleta,District Attorney-Public Administrator,1-1-54,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:13:05.34,48897
+Archuleta,District Attorney-Public Administrator,1-1-2,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:35:02.032,48845
+Archuleta,District Attorney-Public Administrator,1-1-11,std,1,"[""TONY RACKAUCKAS""]",[],YES,UPLOADED,"",2018-06-29 11:37:40.218,48854
+Archuleta,District Attorney-Public Administrator,1-1-49,std,1,"[""TONY RACKAUCKAS""]","[""TONY RACKAUCKAS""]",YES,UPLOADED,"",2018-07-02 14:11:03.267,48892
+Archuleta,District Attorney-Public Administrator,1-1-13,std,1,"[""TONY RACKAUCKAS""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-06-29 11:38:39.291,48856
+Archuleta,District Attorney-Public Administrator,1-1-40,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:08:27.569,48883
+Archuleta,District Attorney-Public Administrator,1-1-34,std,1,"[""BRETT MURDOCK""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-06-29 11:44:50.679,48877
+Archuleta,District Attorney-Public Administrator,1-1-50,std,2,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:11:31.82,48893
+Archuleta,District Attorney-Public Administrator,1-1-46,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-07-02 14:10:30.706,48889
+Archuleta,District Attorney-Public Administrator,1-1-6,std,2,"[""BRETT MURDOCK""]","[""BRETT MURDOCK""]",YES,UPLOADED,"",2018-06-29 11:35:56.795,48849
+Archuleta,District Attorney-Public Administrator,1-1-12,std,1,"[""BRETT MURDOCK""]",[],YES,UPLOADED,"",2018-06-29 11:38:04.02,48855
+Archuleta,Sheriff-Coroner,1-1-63,std,4,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:15:58.076,48906
+Archuleta,Sheriff-Coroner,1-1-58,std,2,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:14:39.773,48901
+Archuleta,Sheriff-Coroner,1-1-57,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:13:59.5,48900
+Archuleta,Sheriff-Coroner,1-1-6,std,2,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:35:56.795,48849
+Archuleta,Sheriff-Coroner,1-1-54,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:13:05.34,48897
+Archuleta,Sheriff-Coroner,1-1-31,std,1,"[""DON BARNES""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-06-29 11:43:44.546,48874
+Archuleta,Sheriff-Coroner,1-1-51,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:12:05.356,48894
+Archuleta,Sheriff-Coroner,1-1-38,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:07:20.766,48881
+Archuleta,Sheriff-Coroner,1-1-40,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:08:27.569,48883
+Archuleta,Sheriff-Coroner,1-1-44,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:09:33.253,48887
+Archuleta,Sheriff-Coroner,1-1-18,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:40:05.266,48861
+Archuleta,Sheriff-Coroner,1-1-46,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:10:30.706,48889
+Archuleta,Sheriff-Coroner,1-1-50,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:11:31.82,48893
+Archuleta,Sheriff-Coroner,1-1-52,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:12:38.387,48895
+Archuleta,Sheriff-Coroner,1-1-56,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-07-02 14:13:31.893,48899
+Archuleta,Sheriff-Coroner,1-1-60,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-07-02 14:15:26.781,48903
+Archuleta,Sheriff-Coroner,1-1-19,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:40:43.854,48862
+Archuleta,Sheriff-Coroner,1-1-66,std,1,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:16:36.562,48909
+Archuleta,Sheriff-Coroner,1-1-49,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:11:03.267,48892
+Archuleta,Sheriff-Coroner,1-1-13,std,1,"[""DON BARNES""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:38:39.291,48856
+Archuleta,Sheriff-Coroner,1-1-45,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:10:00.766,48888
+Archuleta,Sheriff-Coroner,1-1-12,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:38:04.02,48855
+Archuleta,Sheriff-Coroner,1-1-41,std,2,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:09:06.214,48884
+Archuleta,Sheriff-Coroner,1-1-20,std,1,"[""DAVID C. HARRINGTON""]","[""DUKE NGUYEN""]",YES,UPLOADED,"",2018-06-29 11:41:25.442,48863
+Archuleta,Sheriff-Coroner,1-1-39,std,3,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-07-02 14:07:56.259,48882
+Archuleta,Sheriff-Coroner,1-1-17,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:39:37.882,48860
+Archuleta,Sheriff-Coroner,1-1-36,std,2,"[""DAVID C. HARRINGTON""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:06:48.74,48879
+Archuleta,Sheriff-Coroner,1-1-33,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:44:10.838,48876
+Archuleta,Sheriff-Coroner,1-1-15,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:39:12.437,48858
+Archuleta,Sheriff-Coroner,1-1-34,std,1,"[""DAVID C. HARRINGTON""]","[""DAVID C. HARRINGTON""]",YES,UPLOADED,"",2018-06-29 11:44:50.679,48877
+Archuleta,Sheriff-Coroner,1-1-28,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:42:54.191,48871
+Archuleta,Sheriff-Coroner,1-1-11,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:37:40.218,48854
+Archuleta,Sheriff-Coroner,1-1-1,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:34:29.91,48844
+Archuleta,Sheriff-Coroner,1-1-21,std,1,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:41:53.989,48864
+Archuleta,Sheriff-Coroner,1-1-2,std,2,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:35:02.032,48845
+Archuleta,Sheriff-Coroner,1-1-8,std,3,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:36:23.656,48851
+Archuleta,Sheriff-Coroner,1-1-23,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:42:22.571,48866
+Archuleta,Sheriff-Coroner,1-1-9,std,2,"[""DON BARNES""]",[],YES,UPLOADED,"",2018-06-29 11:36:52.6,48852
+Archuleta,Sheriff-Coroner,1-1-10,std,1,"[""DAVID C. HARRINGTON""]",[],YES,UPLOADED,"",2018-06-29 11:37:17.337,48853
+Archuleta,Sheriff-Coroner,1-1-67,std,1,"[""DON BARNES""]","[""DON BARNES""]",YES,UPLOADED,"",2018-07-02 14:17:15.534,48910
