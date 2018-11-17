@@ -44,26 +44,28 @@ the sampled ballots, calculate risk levels, and estimate sample sizes.
 The software requires Python 3.6,
 and has been tested on Ubuntu Linux 18.04 LTS ("bionic").
 
-Install the "ballot-polling" branch of rlacalc
-from `https://github.com/nealmcb/audit_cvrs`.
-Only the rlacalc.py and hug_noop.py files are needed.
-
-Install the "orange" branch of ColoradoRLA from
-https://github.com/nealmcb/ColoradoRLA/tree/orange
-
-Install the [Python package rla_export](https://github.com/FreeAndFair/ColoradoRLA/releases/tag/v1.1.0.3).
-It requires Python 2.7.
-
-Add the directories of all those Python files to $PATH.
+Add the src/rla_utils directory to your $PATH
 
 # Documentation
 For now, use the `--help` option of each tool for help, and/or read the comments.
 
 # Operation
 
+Testing on canned data:
+
+cd data
+PATH=../src/rla_utils:$PATH
+parse_hart.py -C '[12, 13, 14, 15, 16]' contest_table.txt
+analyze_rounds.py contests.json final-export
+
+Here are some instructions for an audit with live data
+
     # Acquire the latest election results, as a `contest_table.txt` file (in CSV format).
 
-    DATADIR=2018-primary
+    PATH=<this-directory>/src/rla_utils:$PATH
+
+    DATADIR=/tmp/2018-primary
+    mkdir -p $DATADIR
     cd $DATADIR
     wget http://ocvote.com/fileadmin/live/pri2018/media.zip
     unzip media.zip

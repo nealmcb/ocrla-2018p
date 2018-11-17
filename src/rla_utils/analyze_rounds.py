@@ -20,7 +20,15 @@ sampled votes for each candidate can vary depending on which other candidate
 they are being compared with, since votes for both candidates are not counted
 at all for either.
 
-TODO: check also for sampling with replacement
+TODO:
+  check also for sampling with replacement
+  If auditors hit BALLOT_NOT_FOUND, that should be recorded in the database as a PHANTOM_BALLOT.
+  Handling those is a bit tricky
+    I.e. for a pool that includes losers, a PHANTOM_BALLOT means one vote
+    All comparisons of a winner vs a loser should credit the loser with one vote
+    The total number of votes needs to be calculated properly
+
+SPDX-License-Identifier: GPL-3.0
 """
 
 from __future__ import print_function
@@ -36,7 +44,6 @@ import json
 import logging
 import argparse
 import collections
-import pprint
 import rlacalc
 import functools
 import types
@@ -150,15 +157,17 @@ def contest_risk(contest, contests):
 
     # Compute risk levels for each pair of a winner and a loser
     contest['risk_levels'] = []
+    risk_records = []
     for winner in contest['winners']:
         w = contests[contest['name']]['choices'][winner]
         for loser in contest['losers']:
             l = contests[contest['name']]['choices'][loser]
             risk_record = Risk_record(risk_limit, w['name'], l['name'], w['votes'], l['votes'], w.get('sample_tally', 0), l.get('sample_tally', 0))
+            risk_records.append(risk_record)
             print("       %s" % risk_record)
             max_risk_record = max(max_risk_record, risk_record)
 
-    return max_risk_record
+    return risk_records
 
 
 def analyze_rounds(parser):
@@ -195,6 +204,7 @@ def analyze_rounds(parser):
 
     logging.debug("Contests: %s" % contests)
 
+    # Crude way to create a minimum Risk_record
     overall_max_risk_record = types.SimpleNamespace()
     overall_max_risk_record.sample_est = -99999
 
@@ -212,9 +222,10 @@ def analyze_rounds(parser):
 
         print()
 
-        risk_record = contest_risk(contest, contests)
-        print("\n  Max: %s\n\n" % risk_record)
-        overall_max_risk_record = max(overall_max_risk_record, risk_record)
+        risk_records = contest_risk(contest, contests)
+        max_risk_record = max(risk_record for risk_record in risk_records)
+        print("\n  Max: %s\n\n" % max_risk_record)
+        overall_max_risk_record = max(overall_max_risk_record, )
 
     # Report minumum across all contests, then levels for all contests
     # print("\n\nOverall max: %s" % overall_max_risk_record)

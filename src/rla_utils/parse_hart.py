@@ -12,6 +12,8 @@ Todo:
     Skip single-choice contests
     Option to select contests
     See inline FIXME and TODO lists
+
+SPDX-License-Identifier: GPL-3.0
 """
 
 from __future__ import print_function
