@@ -20,7 +20,15 @@ sampled votes for each candidate can vary depending on which other candidate
 they are being compared with, since votes for both candidates are not counted
 at all for either.
 
-TODO: check also for sampling with replacement
+TODO:
+  check also for sampling with replacement
+  If auditors hit BALLOT_NOT_FOUND, that should be recorded in the database as a PHANTOM_BALLOT.
+  Handling those is a bit tricky
+    I.e. for a pool that includes losers, a PHANTOM_BALLOT means one vote
+    All comparisons of a winner vs a loser should credit the loser with one vote
+    The total number of votes needs to be calculated properly
+
+SPDX-License-Identifier: GPL-3.0
 """
 
 from __future__ import print_function
@@ -36,7 +44,6 @@ import json
 import logging
 import argparse
 import collections
-import pprint
 import rlacalc
 import functools
 import types
@@ -123,13 +130,15 @@ def contest_risk(contest, contests):
     If a candidate has more votes than all others combined, they are the outright winner
     Otherwise, two candidates advance to a runoff.
 
-    Return Risk_record
+    Return list of Risk_records
     """
+
+    risk_records = []
 
     # print margin
     logging.debug("Contest with %d candidates: %s" % (len(contest['choices']), contest['name']))
     if 'selected' not in contest:
-        return
+        return risk_records
 
     # TODO: avoid kludge to create magic risk_record that is less than any other
     max_risk_record = types.SimpleNamespace()
@@ -137,6 +146,7 @@ def contest_risk(contest, contests):
 
     for choice in sorted(contests[contest['name']]['choices'].values(), key=itemgetter('votes'), reverse=True):
         risk_record = outright_risk(contest, contests, choice['name'])
+        risk_records.append(risk_record)
         print("       %s" % risk_record)
         max_risk_record = max(max_risk_record, risk_record)
 
@@ -144,7 +154,7 @@ def contest_risk(contest, contests):
     # really won outright.
 
     if contest['majority_margin'] > 0:
-        return max_risk_record
+        return risk_records
 
     risk_limit = 0.2 # FIXME: set as an option
 
@@ -155,10 +165,11 @@ def contest_risk(contest, contests):
         for loser in contest['losers']:
             l = contests[contest['name']]['choices'][loser]
             risk_record = Risk_record(risk_limit, w['name'], l['name'], w['votes'], l['votes'], w.get('sample_tally', 0), l.get('sample_tally', 0))
+            risk_records.append(risk_record)
             print("       %s" % risk_record)
             max_risk_record = max(max_risk_record, risk_record)
 
-    return max_risk_record
+    return risk_records
 
 
 def analyze_rounds(parser):
@@ -195,6 +206,7 @@ def analyze_rounds(parser):
 
     logging.debug("Contests: %s" % contests)
 
+    # Crude way to create a minimum Risk_record
     overall_max_risk_record = types.SimpleNamespace()
     overall_max_risk_record.sample_est = -99999
 
@@ -212,9 +224,11 @@ def analyze_rounds(parser):
 
         print()
 
-        risk_record = contest_risk(contest, contests)
-        print("\n  Max: %s\n\n" % risk_record)
-        overall_max_risk_record = max(overall_max_risk_record, risk_record)
+        risk_records = contest_risk(contest, contests)
+        max_risk_record = max(risk_record for risk_record in risk_records)
+        print("\n  Max: %s\n\n" % max_risk_record)
+
+        overall_max_risk_record = max(overall_max_risk_record, max_risk_record)
 
     # Report minumum across all contests, then levels for all contests
     # print("\n\nOverall max: %s" % overall_max_risk_record)
