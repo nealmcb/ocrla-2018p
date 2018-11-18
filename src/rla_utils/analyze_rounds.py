@@ -130,13 +130,15 @@ def contest_risk(contest, contests):
     If a candidate has more votes than all others combined, they are the outright winner
     Otherwise, two candidates advance to a runoff.
 
-    Return Risk_record
+    Return list of Risk_records
     """
+
+    risk_records = []
 
     # print margin
     logging.debug("Contest with %d candidates: %s" % (len(contest['choices']), contest['name']))
     if 'selected' not in contest:
-        return
+        return risk_records
 
     # TODO: avoid kludge to create magic risk_record that is less than any other
     max_risk_record = types.SimpleNamespace()
@@ -144,6 +146,7 @@ def contest_risk(contest, contests):
 
     for choice in sorted(contests[contest['name']]['choices'].values(), key=itemgetter('votes'), reverse=True):
         risk_record = outright_risk(contest, contests, choice['name'])
+        risk_records.append(risk_record)
         print("       %s" % risk_record)
         max_risk_record = max(max_risk_record, risk_record)
 
@@ -151,13 +154,12 @@ def contest_risk(contest, contests):
     # really won outright.
 
     if contest['majority_margin'] > 0:
-        return max_risk_record
+        return risk_records
 
     risk_limit = 0.2 # FIXME: set as an option
 
     # Compute risk levels for each pair of a winner and a loser
     contest['risk_levels'] = []
-    risk_records = []
     for winner in contest['winners']:
         w = contests[contest['name']]['choices'][winner]
         for loser in contest['losers']:
@@ -225,7 +227,8 @@ def analyze_rounds(parser):
         risk_records = contest_risk(contest, contests)
         max_risk_record = max(risk_record for risk_record in risk_records)
         print("\n  Max: %s\n\n" % max_risk_record)
-        overall_max_risk_record = max(overall_max_risk_record, )
+
+        overall_max_risk_record = max(overall_max_risk_record, max_risk_record)
 
     # Report minumum across all contests, then levels for all contests
     # print("\n\nOverall max: %s" % overall_max_risk_record)
