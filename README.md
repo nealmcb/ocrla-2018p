@@ -53,10 +53,11 @@ For now, use the `--help` option of each tool for help, and/or read the comments
 
 Testing on canned data:
 
-cd data
-PATH=../src/rla_utils:$PATH
-parse_hart.py -C '[12, 13, 14, 15, 16]' contest_table.txt
-analyze_rounds.py contests.json final-export
+    cd data
+    PATH=../src/rla_utils:$PATH
+    parse_hart.py -C '[12, 13, 14, 15, 16]' contest_table.txt
+    mv /tmp/cvr.csv /tmp/contests.json .
+    analyze_rounds.py contests.json final-export
 
 Here are some instructions for an audit with live data
 
