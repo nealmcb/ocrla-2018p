@@ -4,11 +4,14 @@
 Read in contest_table.csv
 Summarize contents by contest:
   Sort contests by reverse number of precincts per contest
-  Generate mock cvr file
+  Filter out small contests via --minprecinctcount (defaults to only consider largest contests)
+  Generate mock cvr file /tmp/cvr.csv
   Overall results per choice per contest
+     /tmp/contests.csv
+     /tmp/choices.csv
+  Input for analyze_rounds: /tmp/contests.json
 
 Todo:
-    Calculate winners and losers, assuming all are 2-winner contests
     Skip single-choice contests
     Option to select contests
     See inline FIXME and TODO lists
@@ -98,19 +101,19 @@ class Contest(object):
     def __str__(self):
         return "%d\t%d\t%d\t%s): %s" % (self.registered, self.ballots, self.precinct_count, self.name)
 
-    def tally(self):
-        "Tally the contest. FIXME: assumes 2-winner contest"
+    def tally(self, winners_allowed):
+        "Tally the contest"
 
         ranked = sorted(self.choices.values(), key=attrgetter('votes'), reverse=True)
-        self.winners = [choice.name for choice in ranked[:2]]
-        self.losers = [choice.name for choice in ranked[2:]]
+        self.winners = [choice.name for choice in ranked[:winners_allowed]]
+        self.losers = [choice.name for choice in ranked[winners_allowed:]]
 
         pool_votes = sum([choice.votes for choice in ranked[1:]])
         voted_ballots = ranked[0].votes + pool_votes
 
         if voted_ballots > 0:
-            if len(ranked) > 2:
-                self.margin = (ranked[1].votes - ranked[2].votes) / voted_ballots
+            if len(ranked) > winners_allowed:
+                self.margin = (ranked[winners_allowed-1].votes - ranked[winners_allowed].votes) / voted_ballots
             else:
                 self.margin = 1.0
             self.majority_margin = (ranked[0].votes - pool_votes) / voted_ballots
@@ -199,13 +202,16 @@ def parse_hart_contest_table(parser):
     contests_filtered = [contest for contest in contests_sorted if contest.precinct_count >= args.minprecinctcount]
     contests_filtered = [contests_filtered[i] for i in args.cvr_contests]
 
+    # FIXME: parameterize winners_allowed
+    winners_allowed = 1
+
     for contest in contests.values():
-        contest.tally()
+        contest.tally(winners_allowed)
         # print(contest.winners.toJSON())
 
     for contest in contests_filtered:
         contest.selected = True
-        print("Margin %.4f MajMargin %.4f for %d-candidate %s; winners: %s" % (contest.margin, contest.majority_margin, len(contest.choices), contest.name, contest.winners))
+        print("Margin %.4f MajMargin %.4f for %d of %d-candidates %s; winners: %s" % (contest.margin, contest.majority_margin, winners_allowed, len(contest.choices), contest.name, contest.winners))
         # print(json.dumps(contest.choices.__dict__))
         #json.dump(contest.choices, open("/tmp/choices.json", "w"))
 
