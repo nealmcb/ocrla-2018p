@@ -3,7 +3,8 @@
 This repository contains the code, data and a reproducible analysis of the risk-limiting audit
 of the Orange County California 2018 primary election.
 
-These materials support the report detailing the risk-limiting audit and lessons learned, available at ...WIP - FIXME....
+These materials support the report detailing the risk-limiting audit and lessons learned, available at
+[Orange County, CA Pilot Risk-Limiting Audit report](https://www.verifiedvoting.org/wp-content/uploads/2018/12/2018-RLA-Report-Orange-County-CA.pdf).
 
 The data analysis can be seen and reproduced via the [ocrla-2018p Jupyter notebook](data/ocrla-2018p.ipynb).
 
